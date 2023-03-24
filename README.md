@@ -1,3 +1,4 @@
+![logo](https://github.com/Susitha-jayarathna/Susitha-jayarathna/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Susitha-jayarathna</h1>
 <h3 align="center">A passionate frontend developer from Sri Lankan</h3>
 
